@@ -1,6 +1,6 @@
 FROM mcr.microsoft.com/windows/servercore/iis:windowsservercore-ltsc2019
 
-WORKDIR "C:\inetpub\wwwroot"
+WORKDIR \inetpub\wwwroot
 
 COPY . .
 
