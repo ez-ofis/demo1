@@ -1,2 +1,3 @@
 hi it is file from test
 from test
+copy test
